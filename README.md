@@ -1,7 +1,7 @@
 # BCG-Generative-AI-Forage-Task
 
 **Description:** For this cerifiicate I was tasked to analyse 10-K and 10-Q documents from Apple, Microsoft, Tesla
-**Tools and Technologies Used:** Python, Pandas and Matplotlib and Seaborn
+**Tools and Technologies Used:** Python, Pandas and Matplotlib 
 **Status:** In progress 
 
 ## Project Overview
